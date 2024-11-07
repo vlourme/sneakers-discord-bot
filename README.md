@@ -7,7 +7,7 @@ A simple and performant Discord bot that allows you to search for sneakers, fash
 A free hosted version of the bot is available, you can invite it on your server using the following link:
 
 [![Static Badge](https://img.shields.io/badge/Invite%20on%20my%20server-424549?logo=discord&style=for-the-badge)
-](https://discord.com/oauth2/authorize?client_id=1302343127549481122&integration_type=0&scope=applications.commands&utm_source=discordbotlist.com&utm_medium=bot_page)
+](https://discord.com/oauth2/authorize?client_id=1302343127549481122&integration_type=0&scope=applications.commands)
 
 ## Screenshot
 
