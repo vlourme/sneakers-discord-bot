@@ -35,7 +35,12 @@ cp .env.example .env
 ./register.sh
 ```
 
-Then you should login on Deno Deploy and add this repository as a new project or eventually just copy the `main.ts` in the playground.
+Then you should login on Deno Deploy and add this repository (forked) as a new project or eventually just copy the `main.ts` in the playground.
+
+**Important:**
+
+- Don't forget to set `DISCORD_PUBLIC_KEY` environment variable on Deno Deploy, only this one is required.
+- Once the bot is deployed, set the deployed URL as **Interaction Endpoint URL** in your Discord application.
 
 To invite the bot, you should go on Discord Developer Portal, select your application and then go on OAuth2, enable the `applications.commands` scope under bot permissions and you should be able to invite the bot on your server.
 
